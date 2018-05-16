@@ -1,0 +1,9 @@
+<!-- wxml是小程序骨架  -->
+<view class='container'>
+<image class='user-avatar'  src="/images/hgw.jpg"></image>
+<!--只有text下的可长按选中  -->
+<text class='user-name'>hello,hgw</text>
+<view class='moto-container'>
+  <text class='moto'>开启小程序之旅</text>
+</view>
+</view>
